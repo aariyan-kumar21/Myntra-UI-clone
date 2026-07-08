@@ -2,78 +2,89 @@
 
 # Myntra UI Clone
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF3F6C&center=true&vCenter=true&width=700&lines=Built+using+HTML%2C+CSS+%26+JavaScript;Responsive+Frontend+Clone;Learning+by+Building" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=FF3F6C&center=true&vCenter=true&width=700&lines=Responsive+Myntra+UI+Clone;Built+with+HTML%2C+CSS+%26+JavaScript;Learning+Through+Real+Projects" alt="Typing Animation"/>
+</p>
 
-<br>
+<p>
+  A modern front-end recreation of the Myntra website built using only HTML, CSS and Vanilla JavaScript.
+</p>
 
-<img src="assets/demo.gif" width="90%" alt="Project Demo"/>
-
-<br><br>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000">
+</p>
 
 </div>
 
 ---
 
-## About
+## Demo
 
-A responsive front-end recreation of the Myntra website built entirely with **HTML**, **CSS**, and **Vanilla JavaScript**.
+<p align="center">
+<img src="assets/demo.gif" width="90%" alt="Project Demo">
+</p>
 
-The purpose of this project is to strengthen my understanding of core web development by recreating a modern e-commerce interface without using any frameworks or libraries.
+---
 
-> This project is built purely for learning and portfolio purposes.
+## Overview
+
+This project is a responsive recreation of the Myntra landing page developed to strengthen my understanding of modern front-end development.
+
+Instead of relying on frameworks or UI libraries, the entire interface has been built from scratch using **HTML**, **CSS**, and **Vanilla JavaScript**.
+
+The objective was to practice writing clean code, building responsive layouts, and creating interactive user experiences while following a real-world design.
+
+> **Disclaimer:** This project is built solely for educational and portfolio purposes and is not affiliated with Myntra.
 
 ---
 
 ## Features
 
 - Responsive Layout
-- Modern UI
+- Interactive Navigation
 - Hero Banner
-- Navigation Bar
 - Product Cards
 - Hover Animations
-- Interactive Components
-- Clean File Structure
+- Modern UI
+- Clean Folder Structure
+- Vanilla JavaScript Interactions
 
 ---
 
-## Preview
+## Screenshots
 
-| Home Page | Products |
-|-----------|----------|
-| ![](assets/home.png) | ![](assets/products.png) |
+| Home | Products |
+|------|----------|
+| ![](assets/screenshots/home.png) | ![](assets/screenshots/products.png) |
 
 ---
 
 ## Tech Stack
 
-| Technology | Purpose |
-|------------|----------|
+| Technology | Usage |
+|-----------|-------|
 | HTML5 | Structure |
-| CSS3 | Styling & Responsive Design |
+| CSS3 | Styling |
 | JavaScript | Interactivity |
 
 ---
 
-## Folder Structure
+## Project Structure
 
 ```text
-Myntra-Clone
+Myntra-Clone/
 │
-├── assets
-│   ├── images
-│   ├── icons
-│   ├── screenshots
-│   └── demo.gif
+├── assets/
+│   ├── demo.gif
+│   ├── images/
+│   └── screenshots/
 │
-├── css
+├── css/
 │   └── style.css
 │
-├── js
+├── js/
 │   └── script.js
 │
 ├── index.html
@@ -82,7 +93,7 @@ Myntra-Clone
 
 ---
 
-## Getting Started
+## Running Locally
 
 Clone the repository
 
@@ -90,45 +101,56 @@ Clone the repository
 git clone https://github.com/your-username/myntra-clone.git
 ```
 
+Navigate into the project
+
+```bash
+cd myntra-clone
+```
+
 Open `index.html` in your browser.
 
 ---
 
-## What I Learned
+## Learning Outcomes
+
+During this project I practiced:
 
 - Semantic HTML
-- CSS Flexbox & Grid
+- CSS Flexbox
+- CSS Grid
 - Responsive Design
 - DOM Manipulation
 - Event Handling
-- UI Design Principles
+- UI Design
 - Code Organization
+- Debugging
 
 ---
 
-## Future Improvements
+## Future Enhancements
 
+- Product Search
 - Shopping Cart
 - Wishlist
-- Product Search
-- Authentication
-- Local Storage
+- Login System
+- Product Details Page
+- Dark Mode
 - Backend Integration
+- API Integration
 
 ---
 
-## Disclaimer
+## Acknowledgements
 
-This project is intended for educational purposes only.
-
-All trademarks, logos, and product images belong to their respective owners.
+- UI inspired by the official Myntra website.
+- Built purely as a learning project.
 
 ---
 
 <div align="center">
 
-Made with ❤️ by **Aariyan Kumar**
+### If you enjoyed this project, consider leaving a ⭐
 
-If you found this project interesting, consider giving it a ⭐.
+Made with ❤️ by **Aariyan Kumar**
 
 </div>
