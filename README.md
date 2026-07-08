@@ -20,11 +20,13 @@
 
 ---
 
-## Demo
+## Live Demo
 
-<p align="center">
-<img src="assets/demo.gif" width="90%" alt="Project Demo">
-</p>
+Experience the project live:
+
+🔗 **https://your-project-link.vercel.app**
+
+> Best viewed on desktop, but fully responsive across devices.
 
 ---
 
@@ -74,41 +76,26 @@ The objective was to practice writing clean code, building responsive layouts, a
 ## Project Structure
 
 ```text
-Myntra-Clone/
+Myntra UI clone
 │
-├── assets/
+├── README.md
+├── assets
 │   ├── demo.gif
-│   ├── images/
-│   └── screenshots/
+│   ├── banner.png    
+│   └── screenshots
 │
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── index.html
-└── README.md
+├── css
+├── js
+└── index.html
 ```
-
 ---
+## Live Demo
 
-## Running Locally
+Experience the project live:
 
-Clone the repository
+🔗 **https://your-project-link.vercel.app**
 
-```bash
-git clone https://github.com/your-username/myntra-clone.git
-```
-
-Navigate into the project
-
-```bash
-cd myntra-clone
-```
-
-Open `index.html` in your browser.
-
+> Best viewed on desktop, but fully responsive across devices.
 ---
 
 ## Learning Outcomes
@@ -150,7 +137,5 @@ During this project I practiced:
 <div align="center">
 
 ### If you enjoyed this project, consider leaving a ⭐
-
-Made with ❤️ by **Aariyan Kumar**
 
 </div>
