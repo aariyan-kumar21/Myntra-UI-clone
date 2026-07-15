@@ -57,10 +57,6 @@ The objective was to practice writing clean code, building responsive layouts, a
 
 ## Screenshots
 
-| Home | Products |
-|------|----------|
-| ![](assets/screenshots/home.png) | ![](assets/screenshots/products.png) |
-
 ---
 
 ## Tech Stack
@@ -88,14 +84,6 @@ Myntra UI clone
 ├── js
 └── index.html
 ```
----
-## Live Demo
-
-Experience the project live:
-
-🔗 **https://your-project-link.vercel.app**
-
-> Best viewed on desktop, but fully responsive across devices.
 ---
 
 ## Learning Outcomes
