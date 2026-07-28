@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.left img{
+    height: 45px;
+}
+
+nav{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.container{
+    max-width: 80vw;
+    margin: auto;
+}
