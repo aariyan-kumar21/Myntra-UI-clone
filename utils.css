@@ -2,11 +2,19 @@
     display: flex;
 }
 
-nav ul li{
-    list-style: none;
-    padding-left: 35px;
-}
-
 .item-center{
     align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
 }
