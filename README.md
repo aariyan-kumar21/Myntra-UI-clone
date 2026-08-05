@@ -24,7 +24,7 @@
 
 Experience the project live:
 
-🔗 **https://your-project-link.vercel.app**
+🔗 **https://myntra-ui-clone-delta.vercel.app/**
 
 > Best viewed on desktop, but fully responsive across devices.
 
