@@ -61,3 +61,47 @@ nav ul li{
     display: flex;
     justify-content: space-between;
 }
+
+.socials{
+    display: flex;
+    gap:5px;
+}
+
+.socails-icon{
+    width: 45px;
+    border: 2px;
+    border-radius: 20px;
+}
+
+.download-app{
+    display: flex;
+    gap: 5px;
+}
+
+.app-icon{
+    width: 155px;
+}
+
+.guarantee-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.badge-icon{
+    width: 85px;
+}
+
+.footer-main{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.footer-main ul li{
+    list-style: none;
+}
+
+footer ul li{
+    list-style: none;
+}
