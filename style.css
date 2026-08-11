@@ -105,3 +105,11 @@ nav ul li{
 footer ul li{
     list-style: none;
 }
+
+.searches-links a{
+    text-decoration: none;
+}
+
+.footer-contact a{
+    text-decoration: none;
+}
