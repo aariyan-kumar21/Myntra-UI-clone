@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 html,body{
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    padding: 0;
     font-family: "Roboto", sans-serif;
 }
 
@@ -176,7 +172,41 @@ h4{
     width: 65px;
 }
 
-.left-nav{
-    text-decoration: none;
+.left-nav ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
 
+.left-nav{
+    display: flex;
+    align-items: center;
+
+}
+
+header {
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 30px;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    z-index: 1000;
+    top:0;
+    left: 0;
+    height: 65px;
+}
+
+body{
+    margin: 0px;
+    padding-top: 95px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar-icons{
+    height: 25px;
+    
 }
