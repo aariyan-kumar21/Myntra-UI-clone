@@ -146,8 +146,37 @@ footer{
     flex-wrap: wrap;
     gap: 20px;
     padding: 0 5vw;
+    padding-bottom: 40px;
+}
+
+h3{
+    padding-left: 72px;
+    padding-bottom: 30px;
+    padding-top: 40px;
+}
+
+h4{
+    color:black;
 }
 
 .product-icons img{
     width: 15%;
+}
+
+.about{
+    color:#878b94;
+    font-size: 14px;
+}
+
+.about h5, .about strong{
+    color: black;
+}
+
+.Myntra-Logo{
+    width: 65px;
+}
+
+.left-nav{
+    text-decoration: none;
+
 }
